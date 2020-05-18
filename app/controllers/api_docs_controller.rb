@@ -1,4 +1,4 @@
-class SweggersController < ApplicationController
+class ApiDocsController < ApplicationController
   include Swagger::Blocks
 
   swagger_root  do
