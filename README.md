@@ -27,3 +27,8 @@ http://localhost:3013/api-docs
 ## Authors
 
 * **Jeffry Tandiono** - *Software Engineer* - [Chensienyong](https://github.com/chensienyong)
+
+## References
+
+* [Blog with fastjson](https://blog.tanaka.world/swagger-blocks-with-fastjson-api-part1/) - The swagger with fastjson implementation
+* [Rails + swagger-blocks](https://qiita.com/kymmt90/items/439868c21abe077642fa) - The rails with swagger blocks implementation
